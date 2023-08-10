@@ -1,0 +1,22 @@
+- If chromium blocked : 
+
+curl --proxy http://199.203.131.155:8889 ipconfig.io
+curl --proxy http://199.203.131.155:20201 ipconfig.io
+curl --proxy http://199.203.131.155:20241 ipconfig.io
+
+- Kill Port :
+
+kill $(lsof -t -i:50053)
+
+- Paths :
+
+\var\www (backend)
+\home\ubuntu (tripadvisor)
+
+- Install Node 14
+
+https://computingforgeeks.com/install-node-js-14-on-ubuntu-debian-linux/
+
+- Force file to close :
+
+Windows R + resmon.exe + CPU - Associated Handlers - Path 

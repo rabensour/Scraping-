@@ -1,0 +1,124 @@
+# By Servers #
+
+FEELTER_NEXT_BACKEND (30) :
+- Amazon
+- BedBathAndBeyond
+- BeauteTest
+- BestBuy
+- Billiger
+- ConsumerAffairs
+- Drizly
+- Facebook (English, French German)
+- Foursquare 
+- Fragrantica (English, French, German)
+- FranceVoyage 
+- G2 
+- Influenster
+- Instagram
+- Locaji
+- Nocibe
+- Old System
+- Osmoz
+- Parfumo
+- Sam's Club
+- SiteJabber
+- Target
+- Tiktok
+- TripAdvisor Hotels (English, French)
+- TripAdvisor Restaurants (English, French)
+- TripAdvisor ThingsToDo (English)
+- Twitter
+- Vivino
+- Wine-Searcher
+- YouTube (English, French, German)
+
+BACKOFFICE_SCRAPPERS (10) :
+- BestBuy 
+- Coworker
+- Drizly
+- Fragrantica (English)
+- Google Reviews (?)
+- Influenster
+- LiquidSpace
+- Sam's Club
+- Vivino
+- Yelp
+
+FACEBOOK_SERVER (10) :
+- Facebook (English, French, German)
+- BestBuy 
+- Fragrantica (Italian)
+- MyBeauty
+- Opinioni
+- TripAdvisor Hotels (English, French)
+- TripAdvisor Restaurants (English, French)
+- TripAdvisor ThingsToDo (English)
+- YouTube (Italian)
+- TripAdvisor ThingsToDo (English) 
+
+CONSUMERAFFAIRSSCRAPER (9) :
+- BeauteTest
+- ConsumerAffair
+- BestBuy
+- TikTok
+- TripAdvisor Hotels (English, French)
+- TripAdvisor Restaurants (English, French)
+- TripAdvisor ThingsToDo (English)
+- Fragrantica (English)
+- TripAdvisor ThingsToDo (English)
+
+INSTAGRAM-REVIEW-SCRAPER (1) :
+- Instagram
+
+
+# By Languages #
+
+ENGLISH (24) :
+- Amazon
+- BedBathAndBeyond
+- BestBuy
+- ConsumerAffairs
+- Drizly
+- Facebook 
+- Foursquare 
+- Fragrantica
+- G2 
+- Influenster
+- Instagram
+- Locaji
+- LiquidSpace
+- Sam's Club 
+- SiteJabber
+- Target
+- TikTok
+- TripAdvisor Hotels
+- TripAdvisor Restaurants 
+- TripAdvisor ThingsToDo 
+- Twitter
+- Vivino
+- Yelp
+- YouTube
+
+FRENCH (9) :
+- BeauteTest
+- Facebook 
+- Fragrantica
+- FranceVoyage 
+- Nocibe
+- Osmoz
+- TripAdvisor Hotels
+- TripAdvisor Restaurants 
+- YouTube
+
+ITALIAN (4) :
+- Fragrantica
+- MyBeauty
+- Opinioni
+- YouTube
+
+GERMAN (5) :
+- Billiger
+- Facebook 
+- Fragrantica
+- Parfumo
+- YouTube
